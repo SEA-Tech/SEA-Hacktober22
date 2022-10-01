@@ -1,5 +1,6 @@
 
 # Hacktoberfest22-Web Development
+![image](https://user-images.githubusercontent.com/59169706/193412019-192ab115-830b-40d1-8ed6-ee627e6661c4.png)
 ## About
 This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of advanced DSA algorithms implemented particularly in JAVA. Any other language is also accepted.
 
