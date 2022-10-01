@@ -21,6 +21,8 @@ As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be
 - Clone the forked repository to your local machine
 - Create a folder with the name of the data structure or algorithm or solution to a question you want to add if it is not present.
 - Add the code to that folder
+- If you're working with Web Development please add your files to Web Dev Floder.
+- If you're working with DevOps and testing please add your files to DevOps Floder.
 - Add a README.md file to the folder explaining the code with proper documentation
 - Open the command prompt and cd into the repository folder
 - Run the following Commands
