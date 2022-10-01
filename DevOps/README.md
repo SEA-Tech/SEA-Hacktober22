@@ -1,12 +1,12 @@
-# Hacktoberfest22-Web Development
+# Hacktoberfest22-DevOps
 ## About
 This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of advanced DSA algorithms implemented particularly in JAVA. Any other language is also accepted.
 
 Some of the topics include :
-* HTML and CSS
-* React Framework Projects
-* Python Full Stack Projects
-* Java Full Stack Projects
+* Selenium Testing Automation Projects.
+* TestNg Testing Automation Projects.
+* JUnit Testing Projects.
+
 As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be accepted.
 
 ## How to Contribute
