@@ -1,0 +1,79 @@
+html{
+    border: solid 1rem white;
+    background-color: hsl(0, 0%, 88%);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header {
+    margin: 3rem;
+    text-align: center;
+}
+
+header h3{
+    font-weight: 50;
+}
+
+#img-div{
+    /* display: flex; */
+    /* justify-content:center; */ 
+    /* text-align: center; */
+    
+    background-color: white;
+    margin: auto 5%;
+}
+
+#image {
+    display:block;
+    
+    padding: 3%;
+    width: 40%;
+    max-width: 100%;
+    margin-left: 27%;
+}
+
+#img-caption{
+    text-align: center;
+    position: relative;
+    bottom : 3%;
+    color: hsl(0, 0%, 50%);
+    padding-bottom: 3%;
+
+}
+
+#tribute-info{
+    margin: 5rem 0rem;
+    text-align: center;
+}
+
+section ul{
+    margin: 0rem;
+    list-style: none;
+}
+
+section ul li{
+    margin: 20px 0 10px 30rem;
+}
+
+#quotes{
+    margin: 3rem;
+    text-align: center;
+    font-size: 2rem
+}
+
+a{
+    color:tomato;
+    text-decoration: none;
+    padding: 4rem;
+    text-align:center;
+}
+
+@media screen and (max-width: 600px) {
+    #image {
+        width: 60%;
+        margin-left: 16%;
+    }
+
+    section ul li{
+        margin: 0px 0 20px 0rem;
+    }
+  
+}
